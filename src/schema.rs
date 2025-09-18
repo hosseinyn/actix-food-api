@@ -1,7 +1,7 @@
 // @generated automatically by Diesel CLI.
 
 diesel::table! {
-    Food (id) {
+    food (id) {
         id -> Integer,
         name -> Text,
         quantity -> Integer,

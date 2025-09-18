@@ -1,5 +1,5 @@
 -- Your SQL goes here
-CREATE TABLE "Food" (
+CREATE TABLE "food" (
     "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
     "name" TEXT NOT NULL,
     "quantity" INTEGER NOT NULL,
